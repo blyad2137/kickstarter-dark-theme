@@ -5,21 +5,6 @@
     <a href="https://www.kickstarter.com/projects/retrodigital/scp-heretic"><img src="https://i.imgur.com/ZZ8pU4k.png"></img></a>
 </div>
 
-<div id="Support">
-  <h2>💸 Support</h2>
-    <h3>Want to support me in any way? YOU CANT!</h3>
-      <h4>But if you really want to do so, you can donate to:</h4>
-    <h2 align="center"><a href="https://www.kickstarter.com/projects/retrodigital/scp-heretic">SCP: HERETIC</a></h2>
-    <p align="center"><a href="https://www.kickstarter.com/projects/retrodigital/scp-heretic"><img src="https://ksr-ugc.imgix.net/assets/036/077/090/7cb6b7d0b7f6d11e473724fa7b4de9e6_original.png?ixlib=rb-4.0.2&w=680&fit=max&v=1642277429&auto=format&gif-q=50&lossless=true&s=bf5ff8a90a7f61da451a512528b503e0"></img></a></p>
-  <h3>📙 About SCP: HERETIC</h3>
-  <p><b>SCP: Heretic</b> is the final installment of SCP short-horror trilogy, building off the work of previous films, <a href="https://www.youtube.com/watch?v=xVx2jyDPinw">SCP: Dollhouse</a> and <a href="https://www.youtube.com/watch?v=EOxarwd3eTs">SCP: Overlord</a>.</p>
-  <h3>📙 The Story</h3>
-  <p>The Foundation's target is a cell within a group of interest known as <a href="https://youtu.be/Ty1h3K6jGdE">Are We Cool Yet</a>, a worldwide collective of artists that create and publicly display works of anomalous art. The goals of the group vary from cell to cell, with some being <b>highly ideological</b>, and others simply a <b>force for chaos</b>. As such, the effects of their displays range from harmless to lethally dangerous depending on the artist involved.
-  The cell of interest has recently turned inward, developing <b>occult characteristics</b> and calling themselves <b>'The Society of the Shepherd'</b>. The Foundation believes this to be the result of a recent acquisition of an ancient object of <b>cosmic power</b>, which has driven the cell to create artworks which will allow them to <b>cross over into a higher dimension</b>.</p>
-<h3>This project is being devoloped by people such as <a href="https://www.youtube.com/c/EvanRoyalty" title="Writer">Evan Royalty</a> or <a href="https://www.imdb.com/name/nm8539349/" title="Cinematographer">Stephen Hancock</a>.</h3>
-<h4>If you're interested in an <a href="https://en.wikipedia.org/wiki/SCP_Foundation">SCP Universe</a> you should absolutely check this out and support those amazing people. I don't need your money.</h4>
-</div>
-
 <div id="installation">
  <h2>📁 Installation</h2>
    <div class="stylus">
